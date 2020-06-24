@@ -1,0 +1,22 @@
+body{
+  background-color: darkslategray;
+  text-align: center;
+  color:#9FCF9F;
+
+font-family: 'Lobster', cursive;
+}
+tr{
+
+  padding: 10%;
+
+}
+table{
+
+}
+h1{
+  font-size: 4rem;
+  font-weight: bold;
+}
+h4{
+  font-size: 2rem;
+}
